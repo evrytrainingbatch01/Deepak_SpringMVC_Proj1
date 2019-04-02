@@ -10,7 +10,6 @@ public class User {
   private String address;
   private int phone;
 
-  //username
   public String getUsername() {
     return username;
   }
