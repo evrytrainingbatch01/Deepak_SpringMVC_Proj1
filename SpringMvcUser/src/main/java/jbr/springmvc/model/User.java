@@ -10,6 +10,7 @@ public class User {
   private String address;
   private int phone;
 
+  //username
   public String getUsername() {
     return username;
   }
@@ -19,6 +20,7 @@ public class User {
     this.username = username;
   }
 
+  //password
   public String getPassword() {
     return password;
   }
